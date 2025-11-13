@@ -1,4 +1,4 @@
-### **SmartAdmin**
+### **SmartAdmin**项目
 
 **SmartAdmin** 由 **中国·洛阳** [1024创新实验室](https://www.1024lab.net/) 基于SpringBoot2/3+Sa-Token+Mybatis-Plus 和 Vue3+Ant Design Vue+Uni-App+Uni-UI，并以 <font color="#DC143C">**「高质量代码」为核心，「简洁、高效、安全」**</font>的快速开发平台。
 
